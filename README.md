@@ -26,3 +26,8 @@ The signal should be received, parsed by the IRremote library, repeated via the 
 blaster, and its type and code displayed on the MicroView's OLED. To repeat the 
 last command issued, just press the push-button!
 
+## NOTES/ERRATA
+
+* This code is fugly, and the fugliness is on me. This is GTD-quality code.
+* You can totally use this with regular Arduinos, just nuke the MicroView API calls
+* It'd be swell if you made available any remote codes you find with this tool.
