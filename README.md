@@ -18,6 +18,10 @@ conditions is possible. Additional Tx range could be obtained by driving an arra
 of PNP transistor->IR LED chains from the 2222A signal, or replacing the transistor
 entirely with a power MOSFET setup i.e. IRLB8721.
 
+## PREREQUISITES
+
+You'll need to add both the MicroView and IRremote libraries to your Arduino IDE.
+
 ## OPERATION
 
 Once you've connected up the hardware and pushed the sketch to the MicroView, 
